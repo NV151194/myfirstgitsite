@@ -1,9 +1,0 @@
- <footer>
-    <p>Posted by <strong><cite>Nandan Prajapati</cite></strong></p>
-    <p>contact Information : <a href="mailto:nandan94nov@gmail.com">
-    nandan94nov@gmail.com
-    </a></p>
-    <p>&copy; Copyright 2020-2021 by <strong><cite>Nandan Prajapati</cite></strong></p> 
-</footer>
-      
-    
