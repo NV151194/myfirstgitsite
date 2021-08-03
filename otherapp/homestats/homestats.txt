@@ -1,0 +1,20 @@
+ Name,P,AP,MP,IW,S,KP,TT,GA,SOT,G
+ Andr├⌐ Hansen,G,11,90,0,2,0,0,0,0,0
+ Erlend Dahl Reitan,D,37,90,3,0,0,1,0,0,0
+ Besim ┼áerbe─ìi─ç,D,66,90,3,0,2,1,0,0,0
+ Even Hovland,D,68,90,0,0,0,2,0,0,0
+ Jonathan Augustinsson,D,33,90,1,0,1,4,0,0,0
+ Kristoffer Zachariassen,M,9,90,3,0,1,2,0,0,0
+ Alexander Tettey,M,63,90,1,0,2,1,0,0,0
+ Vebj├╕rn Hoff,M,42,90,2,0,0,1,0,0,0
+ Carlo Holse,F,20,90,0,0,3,3,0,0,0
+ Dino Islamovi─ç,F,15,90,1,0,1,4,0,1,0
+ Emil Konradsen Ceide,F,5,57,0,0,1,2,0,0,0
+ Sander Tangvik,G,0,0,0,0,0,0,0,0,0
+ Adam Andersson,D,0,0,0,0,0,0,0,0,0
+ H├│lmar ├ûrn┬áEyj├│lfsson,D,0,0,0,0,0,0,0,0,0
+ Mikkel Konradsen Ceide,D,0,0,0,0,0,0,0,0,0
+ Anders Konradsen,M,0,0,0,0,0,0,0,0,0
+ Edvard Sandvik Tagseth,M,0,0,0,0,0,0,0,0,0
+ Rasmus Wiedesheim-Paul,F,0,0,0,0,0,0,0,0,0
+ Guillermo Molins,F,6,33,0,0,0,2,0,1,0
