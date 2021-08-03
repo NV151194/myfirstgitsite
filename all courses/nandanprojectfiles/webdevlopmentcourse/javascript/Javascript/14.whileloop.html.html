@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+ <meta charset="utf-8">
+ <title>
+ while loop
+ </title>
+ </head>
+ <body>
+ <div >
+  <div id="startreset">
+                Start Game
+            </div>
+            <div id="gameOver">
+                
+            </div>
+            <p id="gamestart"></p></div>
+ <button onclick="initiateGame()">
+ Start
+ </button>
+ <div id="totalkm"></div>
+ <div id="gameover"></div>
+ <script>
+// function initiateGame(){
+  var totalkm = 50;
+ var move = 0; // these are the step in the car driving game
+ var car = 0; 
+ var petrolremaining = 0;
+ while(totalkm>0){
+ var carincrement = 1+ Math.round(6*Math.random());
+ var itemPrice = carincrement*2;
+ console.log(carincrement);
+ if(itemPrice <= totalkm){
+ move += 1;
+ car += carincrement;
+ petrolremaining += itemPrice;
+ totalkm -= itemPrice;
+ document.getElementById("totalkm").innerHTML += 
+"<p> Move "+move+"- car at "
+ + car +", petrol remaining " + totalkm + " </p>";
+// document.getElementById("gamestart").innerHTML
+//= "<p> Game started </p><p>Petrol pumps generated at "+petrolpumps+"</p>";
+ }
+ }
+ document.getElementById("gameover").innerHTML = 
+"<p> Move "+move+"- car at " + car +", petrol remaining " + totalkm + " </p> GAME OVER";
+ //}
+ </script>
+ </body>
+</html>

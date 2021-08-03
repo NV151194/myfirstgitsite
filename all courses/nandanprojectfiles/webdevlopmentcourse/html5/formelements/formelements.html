@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Element</title>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    	body{
+    		background-color: #EFBAB7;
+    	}
+    	h1{
+    		text-align: center;
+    	}
+    </style>
+</head>
+<body>
+	 <h1>Form Elements</h1>  
+	 <hr>
+     <h2>What is your favorite Salad?</h2>
+       <form>
+        <select name="Salads">
+                    <option value="KaleCaesarSalad">Vegan Kale Caesar Salad with Roasted Chickpea
+Croutons</option>
+                    <option value="CucumberGreekSalad">Swirly Cucumber Greek Salad</option>
+                    <option value="AutumnHarvestSalad" selected>Autumn Harvest Salad</option> 
+        </select>
+                               <br><br>
+        <h3>Why is it your favorite Salad?</h3>
+        <textarea name="meassage" rows="5" cols="25" placeholder="It is my favorite Salad because ....."></textarea>
+                               <br><br>
+        <input type="submit">
+       </form>  
+                               <hr>
+       <form>
+       <button type="button">Click me</button>
+       </form>
+       <hr>
+       <form>
+             <input list="snacks" name="snack">
+             <datalist id="snacks">
+                <option value="Sweet and Salty Apple Chips">
+                <option value="Zucchini Caprese with Burrata">
+                <option value="Avocado Zucchini Noodles">
+             </datalist>
+       </form>
+       <hr>
+</body>
+</html>
