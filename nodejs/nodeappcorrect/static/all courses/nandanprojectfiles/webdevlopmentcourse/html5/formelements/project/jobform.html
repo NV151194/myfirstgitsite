@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>job applicant from</title>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    	body{
+    		background-color: #EFBAB7;
+    	}
+    	h1{
+    		text-align: center;
+            text-decoration: underline;
+    	}
+    </style>
+</head>
+<body>
+	 <h1>Job Applicant Form</h1>  
+	 
+     <form>
+        <h3>Personal Information</h3>
+
+         First Name :
+         <input type="text" name="fname" placeholder="First Name" required>
+         Last Name :
+         <input type="text" name="lname" placeholder="Last Name" required>
+         Middle Name :
+         <input type="text" name="mname" placeholder="Middle Name">
+
+         <br><br>
+
+
+         <table>
+             
+            <tr>
+                <td>Current Address</td>
+                <td>Permanent Address</td>
+            </tr>
+            <tr>
+                <td><textarea rows="10" cols="30" name="currentadd" placeholder="Type your address...."></textarea></td>
+                <td><textarea rows="10" cols="30" name="currentadd" placeholder="Type your address...."></textarea></td>
+            </tr>
+
+         </table>
+
+         <p><strong>Phone:</strong></p>
+         Home Phone:<input type="text" name="countrycode" size="10" maxlength="4" placeholder="Country Code"><input type="text" name="homephone" maxlength="10" placeholder="Home Phone">
+         <br><br>
+         Mobile Phone: <input type="text" name="countrycode" size="10" maxlength="4" placeholder="Country Code" >
+         <input type="text" name="homephone" maxlength="10" placeholder="Mobile Phone" required>
+         
+          <hsr>
+
+          <h3>Employment Desired</h3>
+
+          <p><strong>Position</strong></p>
+          Manager: <input type="radio" name="position" value="manager">
+          Clerk: <input type="radio" name="position" value="clerk">
+          Employment: <input type="radio" name="position" value="employment">
+          <br><br>
+          <p><strong>Are you current Employed</strong></p>
+          Yes: <input type="radio" name="Employed" value="yes">
+          No: <input type="radio" name="Employed" value="no">
+
+          <br><br>
+
+          <strong> Date you can start: </strong><input type="date" name="startdate">
+
+          <hr>
+          <p><strong>Availability</strong></p>
+
+          Monday: <input type="checkbox" name="monday">
+          Tuesday: <input type="checkbox" name="tuesday">
+          Wendsday: <input type="checkbox" name="wendsday">
+          Thursday: <input type="checkbox" name="thursday">
+          Friday: <input type="checkbox" name="friday">
+          Saturday: <input type="checkbox" name="saturday">
+          Sunday: <input type="checkbox" name="sunday">
+          
+          <hr>
+
+          <input type="submit">
+
+
+
+     </form>
+</body>
+</html>

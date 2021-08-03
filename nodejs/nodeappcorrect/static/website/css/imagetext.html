@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Text</title>
+	<style type="text/css">
+		img{
+			width: 100%;
+			height: auto;
+			opacity:.3;
+		}
+		.container{
+			position: relative;
+
+		}
+		.topleft{
+			position: absolute;
+			top: 8px;
+			left: 16px;
+			font-size: 18px;
+		}
+		.topright{
+			position: absolute;
+			top: 8px;
+			right: 16px;
+			font-size: 18px;
+
+		}
+		.bottomleft{
+			position: absolute;
+			bottom: 8px;
+			left: 16px;
+			font-size: 18px;
+
+		}
+		.bottomright{
+			position: absolute;
+			bottom: 8px;
+			right: 16px;
+			font-size: 18px;
+
+		}
+		.center{
+			position: absolute;
+			top: 50%;
+			left: 50%;
+            transform: translate(-50%,-50%);
+            font-size: 18px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+<img src="wallpaper/img5.jpg" width="1000" height="300">
+<div class="topleft">Topleft</div>
+<div class="topright">Topright</div>
+<div class="bottomleft">Bottomleft</div>
+<div class="bottomright">Bottomright</div>
+<div class="center">Center</div>
+</div>
+</body>
+</html>

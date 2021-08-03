@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Reponsive Navigation Bar</title>
+	<meta name="viewport" content="width=device-width, initial-scale-1" />
+<style type="text/css">
+	body{
+		margin: 0;
+	}
+	.topnav{
+		list-style-type: none;
+		margin:0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #1c0d0d;
+	}
+	.topnav li{
+		float: left;
+	}
+	.topnav li a{
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	.topnav li a:hover{
+		background-color: #d81717;
+	}
+	.topnav li a.active{
+		background-color: #49c92c;
+	}
+	@media screen and (max-width: 600px){
+		.topnav li{
+			float: none;
+		}
+	}
+
+</style>
+
+</head>
+<body>
+<ul class="topnav">
+	<li><a class="active" href="">Home</a></li>
+    <li><a href="">News</a></li>
+    <li><a href="">Contact Us</a></li> 
+    <li><a href="">About Us</a></li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Size and Center pagination</title>
+	<style type="text/css">
+		.pagination{
+			display: inline-block;
+			padding: 0;
+			margin: 0;
+
+		}
+		.pagination li{
+			display: inline;
+		}
+		.pagination li a{
+			color: black;
+			float: left;
+			padding: 8px 16px;
+			text-decoration: none;
+			border-radius: 5px;
+			border: 1px solid #ddd;
+			margin: 4px;
+			font-size: 22px;
+			 		}
+			 		.pagination li a.active{
+			 			background-color: green;
+			 			color: white;
+			 			border: 1px solid #4caf50;
+			 		}
+		.pagination li a:hover{
+			background-color: #ddd;
+            
+		}
+		.center{
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+
+<div class="center">
+	<h1>Center Pagination</h1>
+<ul class="pagination">
+	<li><a href="#"><</a></li>
+    <li><a href="#">1</a></li>
+    <li><a href="#" class="active">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+    <li><a href="#">></a></li>
+</ul>
+</div>
+</body>
+</html>

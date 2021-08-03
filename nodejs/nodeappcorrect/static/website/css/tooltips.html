@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nandan</title>
+	<style type="text/css">
+		body{
+			text-align: center;
+		}
+		.tooltip{
+			position: relative;
+			display: inline-block;
+			border-bottom:1px dotted black;
+		}
+		.tooltip .tooltiptext{
+			width: 120px;
+			background-color: #7bbcbd;
+			color: white; 
+			text-align: center;
+			border-radius: 6px;
+	        padding: 5px 0;
+			position: absolute;
+			bottom: -170%;
+			left: 50%;
+			margin-left: -60px;
+			transition: opacity 1s;
+			opacity: 0;
+		}
+		.tooltip:hover .tooltiptext{
+			visibility: visible;
+			opacity: 1;
+			color:black;
+		}
+	</style>
+</head>
+<body>
+	<h1>Fade in tooltip on hover</h1>
+	<p>Please Mouse hover the text</p>
+	
+<div class="tooltip">Hover Over me
+<span class="tooltiptext">Nandan</span>
+</div>
+</body>
+</html>

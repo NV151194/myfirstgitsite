@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Transition</title>
+	<style type="text/css">
+	div{
+		width: 100px;
+		height: 100px;
+		background-color: red;
+        transition: width 2s,height 4s;
+	}	
+	div:hover{
+		width: 300px;
+		height: 300px;
+        
+	}
+     .hidden{
+     	visibility: hidden;
+     	color: white;
+     	padding:10px ;
+
+     }
+     div:hover .hidden{
+     	visibility: visible;
+     }
+	</style>
+</head>
+<body>
+<div>
+	<h1 class="hidden">My Name is Nandan</h1>
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Specify Animation Speed Curve</title>
+	<style type="text/css">
+		div{
+			width: 100px;
+			height: 50px;
+			background-color: red;
+			font-weight: bold;
+			position: relative;
+			animation:mytest 5s infinite;
+		}
+		#div1{animation-timing-function: linear;}
+        #div2{animation-timing-function: ease;}
+        #div3{animation-timing-function: ease-in;}
+        #div4{animation-timing-function: ease-out;}
+        #div5{animation-timing-function: ease-in-out;}
+        @keyframes mytest{
+        	from{left: 0px;}
+        	to{left: 300px;}
+        }
+	</style>
+</head>
+<body>
+<div id="div1">Linear</div>
+<div id="div2">Ease</div>
+<div id="div3">Ease-in</div>
+<div id="div4">Ease-out</div>
+<div id="div5">Ease-in and out</div>
+</body>
+</html>
