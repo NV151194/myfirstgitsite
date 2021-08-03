@@ -1,0 +1,14 @@
+function maxDivide (number, divisor) {
+2 while (number % divisor == 0) {
+3 number /= divisor;
+4 }
+5 return number;
+6 }
+7
+8 function isUgly (number){
+9 number = maxDivide(number, 2);
+10 number = maxDivide(number, 3);
+11 number = maxDivide(number, 5);
+12 return number === 1;
+13 }  
+ module.exports = allPrimesLessThanN ;

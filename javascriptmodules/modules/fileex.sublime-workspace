@@ -1,0 +1,692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"match"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"deta",
+				"details"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Con",
+				"Content-Type"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"wrt",
+				"writeHead"
+			],
+			[
+				"pink",
+				"deeppink"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"e",
+				"endPos"
+			],
+			[
+				"gt",
+				"getMthFibo"
+			],
+			[
+				"ge",
+				"getMthFibo"
+			],
+			[
+				"g",
+				"getMthFibo"
+			],
+			[
+				"l",
+				"last"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"m",
+				"make"
+			],
+			[
+				"re",
+				"respond"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"ht",
+				"http"
+			],
+			[
+				"so",
+				"crimson"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"per",
+				"petrolremaining"
+			],
+			[
+				"ui",
+				"ui-btn"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"gk",
+				"gkQuiz"
+			],
+			[
+				"wi",
+				"wifename"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"erro",
+				"errorToThrow"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"nu",
+				"number1"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"ap",
+				"alphaArray"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"button",
+				"button1"
+			],
+			[
+				"butto",
+				"button2"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"s",
+				"S"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"be",
+				"beginners"
+			],
+			[
+				"kn",
+				"Kneeling"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bakground-",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"bacgroun",
+				"background-color\tproperty"
+			],
+			[
+				"em",
+				"Employed"
+			],
+			[
+				"sala",
+				"Salads"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"iu-",
+				"ui-icon-user"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/app.js",
+			"settings":
+			{
+				"buffer_size": 651,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK0BAAAAAAAArQEAAAAAAAABAAAAMKwBAAAAAAAArAEAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAK4BAAAAAAAArgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "51"
+					},
+					"AgAAAKwBAAAAAAAArQEAAAAAAAAAAAAArQEAAAAAAACuAQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKwBAAAAAAAArAEAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"hi",
+				"WordHighlight: Toggle Enabled"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: Install Package"
+			],
+			[
+				"cons",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"Snippet:",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"cd",
+			"console.log();"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/lib",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/playground",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/static",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/static/project_files",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/static/Projects"
+	],
+	"file_history":
+	[
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/lib/calculateSizeF.js",
+		"/C/Users/91851/OneDrive/Desktop/newprojects/fileexplorer/static/New folder/Gutentype v2.0/gutentype_v.2.0/gutentype/404.php",
+		"/C/Users/91851/OneDrive/Desktop/newprojects/fileexplorer/static/New folder/Gutentype v2.0/gutentype_v.2.0/gutentype/blog.php",
+		"/C/Users/91851/OneDrive/Desktop/newprojects/fileexplorer/static/New folder/Gutentype v2.0/gutentype_v.2.0/gutentype/comments.php",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/lib/mainContent.js",
+		"/C/Users/91851/OneDrive/Desktop/newprojects/fileexplorer/static/New folder/Gutentype v2.0/gutentype_v.2.0/gutentype/changelog.txt",
+		"/C/Users/91851/OneDrive/Desktop/workspacesublime/fileexplorer.sublime-project",
+		"/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/lib/respond.js",
+		"/C/Users/91851/OneDrive/Desktop/New folder/youtube.js",
+		"/C/Users/91851/Downloads/filesofhtml/12. Node Project1 - File Explorer.zip/Node Project1 - File Explorer/playground/path.js",
+		"/C/Users/91851/Downloads/filesofhtml/12. Node Project1 - File Explorer.zip/Node Project1 - File Explorer/playground/humansize.js",
+		"/C/Users/91851/Downloads/filesofhtml/12. Node Project1 - File Explorer.zip/Node Project1 - File Explorer/package.json",
+		"/C/Users/91851/Downloads/filesofhtml/12. Node Project1 - File Explorer.zip/Node Project1 - File Explorer/static/code/k13gcbdcto/index.html",
+		"/C/Users/91851/Downloads/filesofhtml/12. Node Project1 - File Explorer.zip/Node Project1 - File Explorer/static/code/zwc6zbh8af/script.js",
+		"/C/Users/91851/Downloads/filesofhtml/12. Node Project1 - File Explorer.zip/Node Project1 - File Explorer/static/project_files/index.html",
+		"/C/Users/91851/Downloads/filesofhtml/1.1 Node.zip/2.File Exports/lib/school.js",
+		"/C/Users/91851/Downloads/filesofhtml/1.1 Node.zip/2.File Exports/app.js",
+		"/D/New folder/PowerShell 7/Ex_Files_PowerShell_7_EssT/Ex_Files_PowerShell_7_EssT/Exercise Files/CH05/05_03/Retrieving-Data.ps1",
+		"/C/Users/91851/Downloads/filesofhtml/1.1 Node.zip/2.File Exports/lib/greeting.js",
+		"/C/Users/91851/OneDrive/Desktop/javascriptmodules/modules/isPrime.js",
+		"/C/Users/91851/OneDrive/Desktop/javascriptmodules/modules/modInverse.js",
+		"/D/New folder/PowerShell 7/Ex_Files_PowerShell_7_EssT/Ex_Files_PowerShell_7_EssT/Exercise Files/CH04/04_02/Creating-Your-First-Script.ps1",
+		"/C/Users/91851/OneDrive/Desktop/sport.html",
+		"/C/Users/91851/OneDrive/Desktop/New folder/sport.html",
+		"/D/New folder/PowerShell 7/Ex_Files_PowerShell_7_EssT/Ex_Files_PowerShell_7_EssT/Exercise Files/CH04/04_03/Parameters-Attributes-for-Scripts-and-Functions.ps1",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/script/cars.js",
+		"/C/Users/91851/OneDrive/Desktop/javascriptmodules/modules/isPrime - Copy.js",
+		"/C/Users/91851/Downloads/Food.Recipes - WordPress.Theme.v1.2/food-recipes/sliders/accordion-slider.php",
+		"/C/Users/91851/OneDrive/Desktop/json files/match.js",
+		"/C/Users/91851/OneDrive/Desktop/json files/teamname.js",
+		"/C/Users/91851/OneDrive/Desktop/json files/flagwithname.js",
+		"/C/Users/91851/OneDrive/Desktop/json files/teamflag.js",
+		"/C/Users/91851/Downloads/jsondata.js",
+		"/C/Users/91851/OneDrive/Desktop/excels/cmddata.txt",
+		"/C/Users/91851/OneDrive/Desktop/excels/datatype1.html",
+		"/C/Users/91851/Downloads/Food.Recipes - WordPress.Theme.v1.2/food-recipes/sliders/basic-slider.php",
+		"/C/Users/91851/Downloads/Food.Recipes - WordPress.Theme.v1.2/Import XML/sample-content-2013-03-12.xml",
+		"/C/Users/91851/OneDrive/Desktop/projects/sample/script/matches.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/sofascore/awayplayerdataapi.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/awayplayerdataapi.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/awayplayerstatisticsapi.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/statisticsapi.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/playerapi.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/reaction.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/reactfiles/playersapi.js",
+		"/C/Users/91851/OneDrive/Desktop/excels/text.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/script/details.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/sample/sample.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/ecomerce.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/sample/component/style.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/sample/component/nav.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/sample/component/head.txt",
+		"/D/nandan/stock,blender,javascriptautocard,photoshop,languages,excel,adobe,microsoft,tableauadngraphicdesign/files/HTML/css/tables.html",
+		"/C/Users/91851/OneDrive/Desktop/projects/sample/component/footer.txt",
+		"/C/Users/91851/OneDrive/Desktop/excels/matches.json",
+		"/C/Users/91851/OneDrive/Desktop/json files/match.json",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/style.css",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/component/head.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/component/footer.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/sample.html",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/global.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/component/end.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/component/detail.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/server.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/connect.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/anotherprojects.txt",
+		"/D/all courses/nandanprojectfiles/webdevlopmentcourse/html5/semanticelements/detailsandsummaryelement.html",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/components/footer.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/components/head.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/components/details.js",
+		"/D/all courses/nandanprojectfiles/webdevlopmentcourse/html5/semanticelements/navigationelement.html",
+		"/D/all courses/nandanprojectfiles/webdevlopmentcourse/Css3/Introduction/dropdownnavbar.html",
+		"/D/nandan/stock,blender,javascriptautocard,photoshop,languages,excel,adobe,microsoft,tableauadngraphicdesign/files/HTML/css/keyframesrule.html",
+		"/E/Music/Databases/msgstore.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-05.1.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-10.1.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-11.1.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-09.1.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-06.1.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-08.1.db.crypt14",
+		"/E/Music/Databases/msgstore-2021-06-12.1.db.crypt14",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/app.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/arrayfrom.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/javascript.html",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/forofloop.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/sets.js",
+		"/C/Users/91851/aap.js",
+		"/C/Users/91851/AppData/Local/WhatsApp/.dead",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/maps.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Iteratorsnextgenerators.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/fores6.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Spread Operator.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Object literal features.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/FunctionsDefaultparametervalues.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/functionrestparameters.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Destructuring - functions.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Destructuring - objects.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Destructuring - arrays.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Arrowfunction.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/Templateliterals.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/closures.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/datafromurl.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/sortingtheurl.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/sortingtheurl - Copy.js",
+		"/C/Users/91851/OneDrive/Desktop/javascript fiels/files/reusable/fores6 - Copy.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/example.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/testing.js",
+		"/C/Users/91851/AppData/Roaming/Sublime Text 3/Packages/User/cqp. sublime-snippet.sublime-snippet",
+		"/C/Users/91851/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/images/PHX.png",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/images/DEN.png",
+		"/C/Users/91851/OneDrive/Desktop/newprojects/projects/images/Upcoming Matches _ Dream11.html",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/public/main-172c08140cda3d374b15.css",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/public/main-172c08140cda3d374b14.css",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/connect.html",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/script/respond.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/json/car.js",
+		"/C/Users/91851/OneDrive/Desktop/excels/acb.mht",
+		"/C/Users/91851/OneDrive/Desktop/json files/match.txt",
+		"/C/Users/91851/OneDrive/Desktop/json files/match.xml",
+		"/C/Users/91851/Downloads/dream11website/basketball/jsonstats.txt",
+		"/C/Users/91851/Downloads/dream11website/basketball/baseballjson.txt",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/sample.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/run.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/package.json",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/package-lock.json",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/node_modules/nodemon/lib/nodemon.js",
+		"/C/Users/91851/OneDrive/Desktop/projects/nodeapp/node_modules/nodemon/lib/index.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/91851/Downloads/filesofhtml/FileExplorer/projects/app.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fileex.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 238.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 542.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 142.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
